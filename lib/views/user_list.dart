@@ -1,4 +1,3 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_crud/components/user_tile.dart';
 import 'package:flutter_crud/data/dummy.users.dart';
